@@ -23,4 +23,4 @@ Actualmente estoy aprendiendo herramientas como GitHub y programación para crea
 
 ## Datos curiosos
 - Me interesa aprender constantemente nuevas tecnologías.
-- Estoy construyendo mi primer portafolio digital.# mi-perfil
+- Estoy construyendo mi primer portafolio digital.

@@ -14,7 +14,7 @@ Actualmente estoy aprendiendo herramientas como GitHub y programación para crea
 - GitHub
 - HTML
 - Desarrollo móvil
-- Android Studio
+- Studio Android
 
 ## Proyectos que me gustaría desarrollar
 - Aplicaciones educativas
